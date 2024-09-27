@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Bienvenue dans mon programme C !\n");
+    printf("Bonjour, voici la version améliorée de mon programme C !\n");
     return 0;
 }
