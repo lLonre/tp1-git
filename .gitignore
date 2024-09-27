@@ -1,0 +1,6 @@
+*.O
+*.exe
+*.log
+/modules/
+/.vscode/
+
